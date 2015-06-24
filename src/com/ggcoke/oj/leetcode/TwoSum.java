@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Wang Huisong <wanghuisong@letv.com>
+ * @author GGCoke <ggcoke@foxmail.com>
  */
 public class TwoSum {
 

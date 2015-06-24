@@ -1,7 +1,7 @@
 package com.ggcoke.oj.leetcode;
 
 /**
- * @author Wang Huisong <wanghuisong@letv.com>
+ * @author GGCoke <ggcoke@foxmail.com>
  */
 public class DecodeWays {
     public static void main(String[] args) {
